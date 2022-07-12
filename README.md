@@ -1,2 +1,2 @@
-# LeetCode
-Daily Algorithms and Data Structure Practice
+
+#Daily Algorithms and Data Structure Practice
